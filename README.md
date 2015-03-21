@@ -1,7 +1,7 @@
 # **ViterbiAlgorithm_HMMModel**
 ##Author: Panther (Pavan Yadiki)
-##Version: 1.0
-###Date of release: March 20, 2015
+#######Version: 1.0
+#######Date of release: March 20, 2015
 
 -----
 This project implements a Viterbi algorithm for a given HMM model.  
