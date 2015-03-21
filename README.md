@@ -46,3 +46,5 @@
 			* set_observation_values() - Sets the unique observation values of this HMM model  
 			* get_observation_values() - Returns the observation values of this HMM model  
 	*Viterbi.py - Contains the driver program to build a HMM model for the provided input
+	
+* For any questions, please send an email to mail2pavanyr@gmail.com
