@@ -1,13 +1,16 @@
 # ViterbiAlgorithm_HMMModel
+##Author: Panther (Pavan Yadiki)
 This projects implements a Viterbi algorithm for a given HMM model.
 To know more about Viterbi Algorithm, please read http://en.wikipedia.org/wiki/Viterbi_algorithm
 For a given observation sequence, this program outputs all the possible most likely paths.
 
 Design:
-Two python files.\n
+Two python files.
 ViterbiState.py
   This python file has the class called 'State'
+  
   This reflects the state of a HMM model
+  
   Each State has the following:
     -Transition probability matrix - Defines the prob of moving to other states of a HMM model
     -Observation Probability matrix - Defines the prob of observing 'o' in a given state
