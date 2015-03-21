@@ -1,4 +1,4 @@
-# *ViterbiAlgorithm_HMMModel**
+# **ViterbiAlgorithm_HMMModel**
 ##Author: Panther (Pavan Yadiki)
 This projects implements a Viterbi algorithm for a given HMM model.
 To know more about Viterbi Algorithm, please read http://en.wikipedia.org/wiki/Viterbi_algorithm
