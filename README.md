@@ -1,17 +1,22 @@
 # **ViterbiAlgorithm_HMMModel**
 ##Author: Panther (Pavan Yadiki)
-#######Version: 1.0
-#######Date of release: March 20, 2015
+.Version: 1.0
+.Date of release: March 20, 2015
+.Development Environment  
+	.Language- Python (2.7.3)  
+	.Operating System - Windows 8.1
 
------
-This project implements a Viterbi algorithm for a given HMM model.  
------
-To know more about Viterbi Algorithm, please read http://en.wikipedia.org/wiki/Viterbi_algorithm
--------------
-This project is developed during the Machine Learning course study at University of Texas at Dallas
--------------
------
+######This project implements a Viterbi algorithm for a given HMM model.  
+######To know more about Viterbi Algorithm, please read http://en.wikipedia.org/wiki/Viterbi_algorithm
 
+**This project is developed during the Machine Learning course study at University of Texas at Dallas**
+
+Input:  
+	. HMM Model data
+	. Test data
+Output:
+	. Possible most likely paths for each of the given sequence
+	
 For a given observation sequence, this program outputs all the possible most likely paths.
 
 Design:
