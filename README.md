@@ -4,10 +4,13 @@
 ###Date of release: March 20, 2015
 
 -----
-This project
------
-This projects implements a Viterbi algorithm for a given HMM model.
+This project implements a Viterbi algorithm for a given HMM model.  
 To know more about Viterbi Algorithm, please read http://en.wikipedia.org/wiki/Viterbi_algorithm
+-------------
+This project is developed during the Machine Learning course study at University of Texas at Dallas
+-------------
+-----
+
 For a given observation sequence, this program outputs all the possible most likely paths.
 
 Design:
