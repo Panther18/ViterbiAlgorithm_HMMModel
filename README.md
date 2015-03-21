@@ -1,5 +1,11 @@
 # **ViterbiAlgorithm_HMMModel**
 ##Author: Panther (Pavan Yadiki)
+##Version: 1.0
+###Date of release: March 20, 2015
+
+-----
+This project
+-----
 This projects implements a Viterbi algorithm for a given HMM model.
 To know more about Viterbi Algorithm, please read http://en.wikipedia.org/wiki/Viterbi_algorithm
 For a given observation sequence, this program outputs all the possible most likely paths.
