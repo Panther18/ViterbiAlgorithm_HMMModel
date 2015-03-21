@@ -4,7 +4,7 @@ To know more about Viterbi Algorithm, please read http://en.wikipedia.org/wiki/V
 For a given observation sequence, this program outputs all the possible most likely paths.
 
 Design:
-Two python files.
+Two python files.\n
 ViterbiState.py
   This python file has the class called 'State'
   This reflects the state of a HMM model
